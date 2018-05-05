@@ -1,1 +1,1 @@
-# storm-twitter-hello-world-example
+storm-twitter-hello-world
