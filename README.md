@@ -8,14 +8,14 @@ You need to prepare:
 
 Go to https://apps.twitter.com/ to create a new App,
 after that you will get consumer info in the "Keys and Access Tokens" tab
-1. Consumer Key (API Key)
-2. Consumer Secret (API Secret) 
+* Consumer Key (API Key)
+* Consumer Secret (API Secret) 
 <br />
 then click generate access token button under the page,
 you will get
 <br />
-3. Access Token
-4. Access Token Secret
+* Access Token
+* Access Token Secret
 
 and that's all we need for this twitter hello-world project.
 
