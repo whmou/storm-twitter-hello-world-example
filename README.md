@@ -6,7 +6,7 @@ You need to prepare:
 
 ## Get Your Twitter Credential
 
-Go to https://apps.twitter.com/ to create a new App,
+Go to https://apps.twitter.com/ to create a new App,&nbsp;
 after that you will get consumer info in the "Keys and Access Tokens" tab
 * Consumer Key (API Key)
 * Consumer Secret (API Secret)
@@ -30,7 +30,6 @@ $ java -cp target/storm-twitter-hello-world-jar-with-dependencies.jar -Dtwitter4
 ```
 
 ##### The screen output will be like:
-&nbsp;
 ```console
 YouTube censorship RAMPAGE running amok as all the GOOD people keep getting terminated https   t co lBFqo4Uscy
 Hahahaha😅😅😅😂😂 https   t co ckfzTkBoPA
