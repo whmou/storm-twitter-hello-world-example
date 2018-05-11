@@ -4,7 +4,7 @@ You need to prepare:
 - Your twitter credential
 - Java and Maven environment
 
-<img src="https://github.com/whmou/storm-twitter-hello-world-example/blob/master/storm-twitter-hello-world-example.png" height="400" width="800">
+<img src="https://github.com/whmou/storm-twitter-hello-world-example/blob/master/storm-twitter-hello-world-example.png" height="350" width="800">
 
 
 ## Get Your Twitter Credential
