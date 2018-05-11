@@ -13,7 +13,7 @@ after that you will get consumer info in the "Keys and Access Tokens" tab
 <br />
 then click generate access token button under the page,
 you will get
-&nbsp;
+<br />
 3. Access Token
 4. Access Token Secret
 
