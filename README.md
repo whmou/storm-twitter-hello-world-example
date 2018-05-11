@@ -9,8 +9,9 @@ You need to prepare:
 Go to https://apps.twitter.com/ to create a new App,
 after that you will get consumer info in the "Keys and Access Tokens" tab
 * Consumer Key (API Key)
-* Consumer Secret (API Secret) 
-<br />
+* Consumer Secret (API Secret)
+
+
 then click generate access token button under the page, you will get:
 * Access Token
 * Access Token Secret
