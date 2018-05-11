@@ -11,9 +11,7 @@ after that you will get consumer info in the "Keys and Access Tokens" tab
 * Consumer Key (API Key)
 * Consumer Secret (API Secret) 
 <br />
-then click generate access token button under the page,
-you will get
-<br />
+then click generate access token button under the page, you will get:
 * Access Token
 * Access Token Secret
 
